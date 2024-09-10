@@ -1,1 +1,1 @@
-first project web developer
+Frontend developer
